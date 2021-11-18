@@ -1,0 +1,27 @@
+{
+  "name": "lab-3-f28wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "debug": "nodemon --inspect app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghcc2005/Lab-3-F28WP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghcc2005/Lab-3-F28WP/issues"
+  },
+  "homepage": "https://github.com/ghcc2005/Lab-3-F28WP#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}
